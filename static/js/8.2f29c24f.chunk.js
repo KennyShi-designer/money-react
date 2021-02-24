@@ -1,0 +1,2 @@
+(this.webpackJsonpmoneynew=this.webpackJsonpmoneynew||[]).push([[8],{65:function(n,e,t){"use strict";t.r(e);var s=t(2);t(0);e.default=function(){return Object(s.jsx)("h2",{children:"404"})}}}]);
+//# sourceMappingURL=8.2f29c24f.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/NoMatch.tsx"],"names":["NoMatch"],"mappings":"4HAUeA,UARf,WACE,OACE","file":"static/js/8.2f29c24f.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nfunction NoMatch() {\r\n  return (\r\n    <h2>404</h2>\r\n  );\r\n}\r\n\r\n\r\n\r\nexport default NoMatch;\r\n\r\n\r\n"],"sourceRoot":""}
